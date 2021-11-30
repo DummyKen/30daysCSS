@@ -1,19 +1,19 @@
 #### 26/11/21 [Day 0]
-[x] [Grid card Component](https://github.com/DummyKen/Grid-card-component) from FM
+- [x] [Grid card Component](https://github.com/DummyKen/Grid-card-component) from FM
 
 - [Live Site](https://dummyken.github.io/Grid-card-component)
 
 #### 27/11/21 [Day 1]
-[ ][NFT component](https://github.com/DummyKen/NFT-card-component) from FM
+- [ ] [NFT component](https://github.com/DummyKen/NFT-card-component) from FM
 
 #### 28/11/21 [Day 2]
-[x] [NFT component](https://github.com/DummyKen/NFT-card-component) from FM
+- [x] [NFT component](https://github.com/DummyKen/NFT-card-component) from FM
 
 #### 29/11/21 [Day 3]
-[x] Took a break
+- [x] Took a break
 
 #### 30/11/21 [Day 4]
-[x] [Huddle Landing Page](https://github.com/DummyKen/Huddle-landing-page) fron FM
+- [x] [Huddle Landing Page](https://github.com/DummyKen/Huddle-landing-page) fron FM
 - [Live Site](https://dummyken.github.io/Huddle-landing-page)
 
 
