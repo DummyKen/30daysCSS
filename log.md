@@ -16,4 +16,7 @@
 - [x] [Huddle Landing Page](https://github.com/DummyKen/Huddle-landing-page) fron FM
 - [Live Site](https://dummyken.github.io/Huddle-landing-page)
 
+#### 1/12/21 [Day 5]
+- [x] Added icons for Huddle Landing Page
+- [ ] Four card section
 
