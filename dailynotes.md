@@ -14,3 +14,7 @@
 ### Day 4
 > Pretty damn proud to have done whole challenge of [Huddle Landing Page](https://github.com/DummyKen/Huddle-landing-page) including mobile design. Onto the next
 
+### Day 5
+> Added social icons to the landing page. Tried to do the next four card section challenge but unfortunately I was distracted again. But tomorrow I will watch the youtube video and do that for sure.
+
+
