@@ -20,3 +20,16 @@
 - [x] Added icons for Huddle Landing Page
 - [ ] Four card section
 
+#### 2/12/21 [Day 6]
+- [x] Chill day 
+
+#### 3/12/21 [Day 7]
+- [ ] Four card section
+
+#### 4/12/21 [Day 8]
+- [x] [Four card section](https://github.com/DummyKen/Four-Card-Component)
+- [Live Site](https://dummyken.github.io/Four-Card-Component)
+
+#### 5/12/21 [Day 9]
+- [ ] Fix four card section
+
