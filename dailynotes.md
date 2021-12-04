@@ -17,4 +17,11 @@
 ### Day 5
 > Added social icons to the landing page. Tried to do the next four card section challenge but unfortunately I was distracted again. But tomorrow I will watch the youtube video and do that for sure.
 
+### Day 6
+> Tried to do four card sectio but didn't know how to. Had to watch a yt vid.
 
+### Day 7
+> Chill day lol
+
+### Day 8 
+> Completed four card section finally lol. It was not really difficult at all. Just had to add a transform property. But need to improve it according to comments, will do it tomorrow and I need to take these challenges really seriously. 
