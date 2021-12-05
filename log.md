@@ -31,5 +31,8 @@
 - [Live Site](https://dummyken.github.io/Four-Card-Component)
 
 #### 5/12/21 [Day 9]
-- [ ] Fix four card section
+- [x] Fix four card section
+- [ ] social proof section
+- [ ] codewell challenge
+- [ ] netflix clone
 
