@@ -36,3 +36,5 @@
 - [ ] codewell challenge
 - [ ] netflix clone
 
+#### 6/12/21 [Day 10]
+- Chill day
