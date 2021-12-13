@@ -38,3 +38,15 @@
 
 #### 6/12/21 [Day 10]
 - Chill day
+
+--- 
+>Man what a downfall that was. Not anymore tho, Dummyken here I go.
+
+#### 13/12/21 [Day 17]
+- Personal Banner website
+  - In progress
+- Personal bookmarks website
+  - done for now
+  - *pinned*
+- 
+
