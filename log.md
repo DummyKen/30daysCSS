@@ -48,5 +48,5 @@
 - Personal bookmarks website
   - done for now
   - *pinned*
-- 
-
+#### 19/12/21
+- I will be less exposured to CSS from now on and focus sorely on JS,eng,python websites and Japanese.
